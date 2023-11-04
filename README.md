@@ -2,6 +2,10 @@
 
 Este é um projeto básico desenvolvido com o framework Django chamado "Livraria". O sistema permite listar os livros cadastrados, adicionar, editar e deletar informações sobre livros. Para uma estilização básica, utilizamos o Bootstrap 5. Este projeto foi desenvolvido para Efraim como parte de um exercício prático de desenvolvimento de sistemas web com o Django.
 
+
+![Captura de tela de 2023-11-02 07-09-09](https://github.com/efraimrocha/crud_livraria/assets/67542881/a25c6c7a-f743-466e-be73-a89e61819d70)
+
+
 ## Funcionalidades
 
 O sistema Livraria oferece as seguintes funcionalidades:
